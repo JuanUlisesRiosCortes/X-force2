@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body><p>u git config –list <br>.- muestra la configuración de variables globales de Git. <br>
+- git clone.- Realiza una copia exacta de un repositorio en la computadora local. <br>
+- git init .- configura un directorio local para iniciar el CVS sobre los archivos del mismo.<br>
+- git remote add origin https://github.com/<user>/<Proyecto>.git .- Establece la
+dirección a donde se va a subir el código. <br>
+- git add <archivo> agrega a un archivo en estado modified a estado staged.<br>
+- git commit .- Etiqueta con una descripción los archivos modificados y mantenerlos almacenados localmente. <br>
+- git push.- Realiza el commit subiendo los cambios físicamente al servidor. <br>
+- git pull .- realiza una actualización desde el servidor a la computadora local, con la ultima versión de los archivos. <br>
+- git status.- muestra las modificaciones realizadas en un archivo.</p>
+
+  </body>
+</html>
